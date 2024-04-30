@@ -3,11 +3,6 @@ using System.ComponentModel;
 
 namespace AbstractClass
 {
-    //Abstract classes can have abstract and non abstract methods both
-    //abstract methods do not contain implementation the classes have to inherit abstract class and provide implementation for
-    //the abstract method
-    //we cannot make objects of abstract classes
-    //A class that inherits an abstract must provide implementation for all abstract methods in it
 
     public abstract class MyAbstractclass
     {

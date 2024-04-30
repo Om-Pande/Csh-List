@@ -3,8 +3,7 @@
 
 namespace ConstructorChaining
 {
-    //Calling a constructor from another constructor is called Constructor chaining.
-    //If a constructor calls a current class constructor, then this keyword is used to identify the current class constructor.
+   
 
     public class Employee
     {
@@ -25,10 +24,7 @@ namespace ConstructorChaining
 
         }
 
-        //public static void Main(string[] args)
-        //{
-        //    Employee e = new Employee();
-        //}
+      
     }
 
     public class ProjectATeam : Employee

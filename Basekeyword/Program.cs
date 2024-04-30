@@ -2,9 +2,7 @@
 
 namespace BaseKeyWord
 {
-    //base keyword is used to access members of the base class from within a derived class.
-    //base class access is permitted only in a constructor,an instance method,or an instance property accessor
-    //it is an error to use the base keyword from within a static method
+
 
     public class Person
     {

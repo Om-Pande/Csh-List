@@ -3,12 +3,7 @@ using System.Collections;
 
 namespace Collections
 {
-    //collections in c# are types designed to store, manage and manipulate similar data more efficiently.
-
-    //.NET supports two types of collections 
-    //1)generic collections 
-    //2) non generic collections: can represent a value of different type.
-    internal class Program
+ 
     {
         static void Main(string[] args)
         {
